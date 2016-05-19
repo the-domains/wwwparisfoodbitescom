@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[www.parisfoodbites.com]]></title>
         <description><![CDATA[www.parisfoodbites.com]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/wwwparisfoodbitescom/</link>
         <generator>The Grid</generator>
         <lastBuildDate>Thu, 19 May 2016 12:31:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://thegrid.ai/wwwparisfoodbitescom/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Spotify's Design Lead on Why Side Projects Should Be Stupid]]></title>
+            <description><![CDATA[<article><h1>Spotify's Design Lead on Why Side Projects Should Be Stupid</h1><p>Tobias van Schneider lives his life like one big side project. Today, he designs and builds new products for Spotify in New York, but he couldn't have predicted that when he dropped out of school at age 15 to work as an apprentice in a computer shop in Austria.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ed2e3065709ea706d3bf879a08399704e03b23c.jpg"></article>]]></description>
+            <link>http://firstround.com/review/Spotifys-Design-Lead-on-Why-Side-Projects-Should-be-Stupid/</link>
+            <guid isPermaLink="false">aea7e12a-1212-401d-816b-7b30c1e237d9</guid>
+            <pubDate>Thu, 19 May 2016 12:31:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Winners of the 2015 iPhone Photography Awards Announced]]></title>
             <description><![CDATA[<article><h1>Winners of the 2015 iPhone Photography Awards Announced</h1><p>NEW YORK - June 15, 2015 - The iPhone Photography Awards™ (IPPAWARDS) is proud to announce the winners of the 8th Annual Awards. They were selected from thousands of entries submitted by iPhone photographers from 120 countries around the world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3682134737542db758520dcb5c569d0c5b326f1d.jpg"></article>]]></description>
